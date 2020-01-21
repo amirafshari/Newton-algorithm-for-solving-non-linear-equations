@@ -1,7 +1,7 @@
 import numpy as np
 from sympy import symbols, diff, Symbol, Matrix, Array
 
-# Define the symbols
+# Define the variables
 x, y, z = symbols('x y z')
 
 # Inputs
